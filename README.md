@@ -24,10 +24,10 @@ python DRLgru.py
 # step 3: construct a PHNet and generate random walks
 python walks.py
 
-#step 4: weighted heterogeneous network embedding
+# step 4: weighted heterogeneous network embedding
 python WHNE.py
 
-#step 4: generate clustering results
+# step 5: generate clustering results
 python evaluator.py
 ```
 
