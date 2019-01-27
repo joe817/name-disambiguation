@@ -1,7 +1,7 @@
 # name-disambiguation
 this is a pipeline of author name disambiguation.
 
-## Requirements
+## Basic requirements
 
 * python 3.6.5
 * networkx 1.11
