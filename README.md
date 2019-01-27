@@ -34,5 +34,5 @@ python evaluator.py
 
 ## Data
 
- you are recommended to use the [word2vec model](https://1drv.ms/u/s!AvNheLYVCGGGayqTjhiXoOgRc9w) we pre-trained. Or you can train your own word vectors(dimension = 100) using the [woed2vec method](https://radimrehurek.com/gensim/models/word2vec.html) in gensim library.
+ you are recommended to use the [word2vec model](https://1drv.ms/u/s!AvNheLYVCGGGayqTjhiXoOgRc9w)(or [word2vec model](https://pan.baidu.com/s/18nTdRcmZ4sKz7RbmrCIfWA)) we pre-trained. Or you can train your own word vectors(dimension = 100) using the [woed2vec method](https://radimrehurek.com/gensim/models/word2vec.html) in gensim library.
 
