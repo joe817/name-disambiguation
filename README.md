@@ -3,13 +3,13 @@ this is a pipeline of author name disambiguation.
 
 ## Requirements
 
-* python 3.6
-* networkx
-* gensim
-* sklearn
-* numpy
-* pandas
-* tensorflow
+* python 3.6.5
+* networkx 1.11
+* gensim 3.4.0
+* sklearn 0.20.1
+* numpy 1.14.3
+* pandas 0.23.0
+* tensorflow 1.10.0
 
 Note: you are recommended to run this pipeline on windows.
 
