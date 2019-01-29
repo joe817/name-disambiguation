@@ -34,5 +34,5 @@ python evaluator.py
 
 ## Data
 
- you are recommended to use the word2vec model we pre-trained to generate word embeddings of publication titles via [OneDrive](https://1drv.ms/u/s!AvNheLYVCGGGayqTjhiXoOgRc9w) (or [BaiduYun](https://pan.baidu.com/s/18nTdRcmZ4sKz7RbmrCIfWA)).  Or you can train your own word vectors(dimension = 100) using the [woed2vec method](https://radimrehurek.com/gensim/models/word2vec.html) in gensim library.
+ you are recommended to use the word2vec model we pre-trained to generate word embeddings of publication titles via [OneDrive](https://1drv.ms/u/s!AvNheLYVCGGGayqTjhiXoOgRc9w) (or [BaiduYun](https://pan.baidu.com/s/18nTdRcmZ4sKz7RbmrCIfWA)).  Or you can train your own word vectors(dimension = 100) using the [word2vec method](https://radimrehurek.com/gensim/models/word2vec.html) in gensim library.
 
