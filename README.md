@@ -1,5 +1,8 @@
 # name-disambiguation
 this is a pipeline of author name disambiguation.
+If this code helps you, please cite the following paper:
+Qiao, Ziyue, Yi Du, Yanjie Fu, Pengfei Wang, and Yuanchun Zhou. "[Unsupervised Author Disambiguation using Heterogeneous Graph Convolutional Network Embedding.](https://ieeexplore.ieee.org/abstract/document/9005458)" In 2019 IEEE International Conference on Big Data (Big Data), pp. 910-919. IEEE, 2019.
+
 
 ## Basic requirements
 
